@@ -1,6 +1,15 @@
 # SPL-Term-Project-2020
 Working on GoLang programming.
 
+Group # 10
+
+Group Members:
+1.Augustine Thomas
+2.Akshay Gupta
+3.Herleen Kaur Sanhotra
+4..Kanika Saini
+5.Mohammad Saif
+
 Milestone 1-
 
 To run the programs go to the individual folders and exectue them using command line with the syntax -
