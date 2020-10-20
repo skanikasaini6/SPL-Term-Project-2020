@@ -4,11 +4,11 @@ Working on GoLang programming.
 Group # 10
 
 Group Members:
-1.Augustine Thomas
-2.Akshay Gupta
-3.Herleen Kaur Sanhotra
-4..Kanika Saini
-5.Mohammad Saif
+1.Augustine Thomas <br>
+2.Akshay Gupta <br>
+3.Herleen Kaur Sanhotra <br>
+4..Kanika Saini <br>
+5.Mohammad Saif <br>
 
 Milestone 1-
 
