@@ -1,5 +1,5 @@
 # SPL-Term-Project-2020
-Working on GoLang programming.
+# Real Time Chat app using Golang 
 
 Group # 10
 
@@ -17,3 +17,6 @@ To run the programs go to the individual folders and exectue them using command 
 go run programname.go
 
 The reason for seperate files for programs is that go can only have one main class in a single folder and we have made 3 main classes in different files here.
+
+Project Proposal - 
+This folder contains the project proposal that gives a brief description about the project.
